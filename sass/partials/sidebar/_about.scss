@@ -1,0 +1,8 @@
+section.about {
+  > img {
+    float: left;
+    margin: 1em 1em 1em 0;
+    @include shadow-box;
+    @include circle;
+  }
+}
