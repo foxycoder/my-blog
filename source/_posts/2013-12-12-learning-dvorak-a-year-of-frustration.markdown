@@ -11,11 +11,13 @@ categories:
 
 <img src="http://farm5.staticflickr.com/4100/4930664504_87b04edbd9_b.jpg" alt="Dvorak keyboard" width="45%" />
 
-It's been a year now, since I started learning Dvorak. And it has been a year full of frustration. The reason for me to make the switch to another keyboard layout was merely a matter of principle. The Qwerty layout that I used before, and the most common keyboard interface in the Western world was designed for [Remington typewriters][1] in 1873. They have these metal arms, called typebars, and this layout was designed to prevent jams of the typebars when typing fast. This means that keys that were often used sequentially in words could not be to close to each other or the arms would grip into each other and the typewriter would jam.
+It's been a year now, since I started learning Dvorak. And it has been a year full of frustration. The reason for me to make the switch to another keyboard layout was merely a matter of principle. The Qwerty layout that I used before, and the most common keyboard interface in the Western world was designed for [Remington typewriters][1] in 1873. They have these metal arms, called typebars, and this layout was designed to prevent jams of the typebars when typing fast. This means that keys that were often used sequentially in words could not be too close to each other or the arms would grip into each other and the typewriter would jam.
 
 ## Common standards
 
 Now, I am all for common standards, but this seems to me like a relic from the past. Therefore I started looking into other layouts, and I was intrigued by the idea behind the [Dvorak simplified keyboard layout][2] from 1936. The keys on a Dvorak keyboard are arranged in a way that allows me to type this blog post with less finger motions than it would have taken me on a Qwerty layout. This would increase my typing speed and accuracy. All I had to do was learn to type again.
+
+<!-- more -->
 
 ## How it affected my communication
 
@@ -31,7 +33,7 @@ I did not want to loose my job over this of course, so every night I practiced a
 
 ## I like to think it was worth it
 
-For me it was - wort it - in the end. But only because I was not such a good typer to begin with. I could have solved that probably by practicing my skills on Qwerty, but I guess I am just too lazy for that. The fact that I had to learn to type all over again made me do it. It has been a year now, and I gave up practicing a few months ago. I am at 110 WPM. Still not very fast, but faster than I was by 10 WPM and I am still improving - just by typing. I like to think that is the Dvorak effect. :) Am I crazy?
+For me it was - worth it - in the end. But only because I was not such a good typer to begin with. I could have solved that probably by practicing my skills on Qwerty, but I guess I am just too lazy for that. The fact that I had to learn to type all over again made me do it. It has been a year now, and I gave up practicing a few months ago. I am at 110 WPM. Still not very fast, but faster than I was by 10 WPM and I am still improving - just by typing. I like to think that is the Dvorak effect. :) Am I crazy?
 
 [1]:	http://en.wikipedia.org/wiki/QWERTY
 [2]:	http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
